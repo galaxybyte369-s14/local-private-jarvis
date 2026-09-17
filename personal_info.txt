@@ -1,0 +1,4 @@
+- The user's name is John Doe.
+- The user lives in New York City.
+- The user's main interests are coding software, playing video games, and drinking hot coffee.
+- The user's favorite food is pizza.

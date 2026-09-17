@@ -11,13 +11,13 @@ A 100% local, completely private AI desktop assistant built on a Llama model bas
 - **Root-Level Knowledge Base:** Securely references permanent personal data structured in bullet points directly inside its local source directories, rather than logging active chat history.
 
 ## 📁 System Requirements & Optimization
-This project is built and optimized to run efficiently on lightweight, hardware-constrained environments (like a **Lenovo ThinkPad T460** workhorse with Intel HD 520 integrated graphics) without requiring paid cloud APIs.
+This project is built and optimized to run efficiently on lightweight, hardware-constrained environments without requiring paid cloud APIs.
 
 ## 🚀 How to Run
 1. Open your terminal.
 2. Navigate to this project folder.
 3. Run the main launch script:
    ```bash
-   python main.py
+   python jarvis.py
    ```
 *(Note: You will need to download your preferred Llama model weights separately and place them in your local directory as specified by your configuration files).*

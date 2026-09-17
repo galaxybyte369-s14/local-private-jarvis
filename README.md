@@ -21,3 +21,5 @@ This project is built and optimized to run efficiently on lightweight, hardware-
    python jarvis.py
    ```
 *(Note: You will need to download your preferred Llama model weights separately and place them in your local directory as specified by your configuration files).*
+
+ edit personal info.txt according yourself.
